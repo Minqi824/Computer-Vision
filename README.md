@@ -1,2 +1,1 @@
-# Deep-learning
-Deep learning with R and Python
+# Machine Learning with Python
